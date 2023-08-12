@@ -1,0 +1,28 @@
+body {
+    background-image: url(Julius\ Ceaser.jpeg);
+    background-size: 33%;
+    
+}
+
+section {
+   background-color: white;
+   opacity: 0.7;
+   position: relative;
+   top: 200px;
+   block-size: fit-content;
+   width: fit-content
+
+}
+
+#number-box {
+    width: 100px;
+}
+
+#roman-numeral-box {
+    width: 90px;
+    height: 20px;
+    background-color: white;
+    border-color: black;
+    border-radius: 5;
+    
+}
